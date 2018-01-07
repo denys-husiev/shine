@@ -22,5 +22,5 @@
 /node_modules
 
 .idea
-.Gemfile.lock
+Gemfile.lock
 yarn.lock
